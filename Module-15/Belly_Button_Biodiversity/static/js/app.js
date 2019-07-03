@@ -1,3 +1,8 @@
+// Unit 15 Assigment - Belly Button Biodiversity
+// @PLOTLY.JS AND HEROKU
+// @version 1.0
+// @author Martha Meses 
+
 function buildMetadata(sample){
   // @TODO: Complete the following function that builds the metadata panel
   // Use d3 to select the panel with id of `#sample-metadata`
